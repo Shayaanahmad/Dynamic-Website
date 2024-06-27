@@ -1,0 +1,1 @@
+This project uses Java servlets and JDBC to create a dynamic website in which a database containing all the images is stored in the form of key-value pairs and these key-value pairs are then retrieved to display them on the website dynamically
